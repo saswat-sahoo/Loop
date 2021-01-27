@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1cd5a955139764abf2bfd69234c399, type: 3}
+  m_Name: Final_Cutscene
+  m_EditorClassIdentifier: 
+  DailougeList:
+  - Dailouge: {fileID: 11400000, guid: 106c6b60bb05c9244947c3d12ff66669, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 2872dd51f9ffea1468f9f9202353a04c, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: 3901b744307e66540a17269e6788ef90, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 90d4577df56884449b7f4a55a200cda8, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: 34d70e6335b06aa4294551c01dc1ecdb, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 0a664d0028801c84fa334b3c7d206b22, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: efa51fb450b657c428fee907e8a695f3, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: b66d43897d58e7542a590d903d213e6a, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: c1c31e19e64b6e64395f422cddb7ef72, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 3d49bd176293170449df569241dc20b6, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: 3bd11f96b6168ee4fb17ba13771177c1, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: c28e0abd407d5324da4ca2b0c919f65f, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: 84a372369ca7f734ea601f8f2149341e, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: db16d6a7d44e5084ba8e46311b424b90, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 84a372369ca7f734ea601f8f2149341e, type: 2}
+    Side: 0
+  IsCutscene: 1

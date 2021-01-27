@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1cd5a955139764abf2bfd69234c399, type: 3}
+  m_Name: ReaperScript
+  m_EditorClassIdentifier: 
+  DailougeList:
+  - Dailouge: {fileID: 11400000, guid: 6693ec2e3335e9c4b8c2b90f87f2892b, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: 900da814f44541541a00f66cc6c158a9, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 465f3e60ccf473847bd2104c76dee705, type: 2}
+    Side: 1
+  IsCutscene: 0

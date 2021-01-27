@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1cd5a955139764abf2bfd69234c399, type: 3}
+  m_Name: REAPER3
+  m_EditorClassIdentifier: 
+  DailougeList:
+  - Dailouge: {fileID: 11400000, guid: e4ccccac52aebd940af4aa3ae967f365, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 8b7e3c660c03a52488ad472d7b726fa6, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: f104af55e10623f44b058ffc87b6affa, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: 2e369900b0d75cc419fa00a36d8e55da, type: 2}
+    Side: 1
+  - Dailouge: {fileID: 11400000, guid: fa30e00c795856b4b855dfe207cf9322, type: 2}
+    Side: 0
+  - Dailouge: {fileID: 11400000, guid: d7f2cc55a73c1184386ad73eaf2203c2, type: 2}
+    Side: 1
+  IsCutscene: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716aacf51bde9c44be0cf00e752dc0f, type: 3}
+  m_Name: DARK eLF
+  m_EditorClassIdentifier: 
+  Sad: {fileID: 1998727493092901579, guid: 9691019175acec746bc891e9369fd0f6, type: 3}
+  Neutral: {fileID: 4169858856534133158, guid: 9691019175acec746bc891e9369fd0f6, type: 3}
+  Smile: {fileID: 5783051356787145996, guid: 9691019175acec746bc891e9369fd0f6, type: 3}
+  Annoyed: {fileID: -7672716239935423284, guid: 9691019175acec746bc891e9369fd0f6, type: 3}
+  Name: ??????
+  VoiceBeep: {fileID: 8300000, guid: de5615735e0f73647a1a7bb32d8ccb50, type: 3}
